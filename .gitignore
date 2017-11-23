@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+app/__init__.pyc
+app/__pycache__/
+app/forms.pyc
+app/migrations/__init__.pyc
+app/migrations/__pycache__/
+app/models.pyc
+app/urls.pyc
+app/views.pyc
+libs/__init__.pyc
+libs/opt_ori_data.pyc
+libs/svm.pyc
+svm/__init__.pyc
+svm/__pycache__/
+svm/settings.pyc
+svm/urls.pyc
+svm/wsgi.pyc
+libs/svm_model.pkl
